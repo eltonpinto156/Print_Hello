@@ -12,3 +12,4 @@
 - Ali Can Kuştemur (https://github.com/alicankustemur).
 - Vamisola (https://github.com/vamisola).
 - [Abhishek Kumar dey](https://github.com/abhishekdey4444)
+- [Smarth Ganguly](https://github.com/SmarthGuy)
